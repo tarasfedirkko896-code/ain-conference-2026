@@ -1,7 +1,9 @@
-AIN Conference v11 — невидимі стіни та меблі
+AIN Conference v12 — прохідність
 
-Завантажте лише map-ain-v11-walls.tmj у корінь нового репозиторію ain-conference-2026.
-Залиште вже завантажені ain_conference_v10.png, invisible_collision.png, invisible_start.png.
-Map URL: https://tarasfedirkko896-code.github.io/ain-conference-2026/map-ain-v11-walls.tmj
+Завантажте map-ain-v12-navigation.tmj у корінь репозиторію ain-conference-2026. Не видаляйте ain_conference_v10.png, invisible_collision.png та invisible_start.png.
 
-У карті додані невидимі колізії по межах приміщень, біля сцени, меблів, ресепшену та банерів. Центральні проходи збережені. Це перша версія розмітки: перевірте в WorkAdventure, чи можна пройти у всі кімнати; за результатом тесту уточнимо дверні прорізи.
+Виправлення: відкрито проходи біля крісел перед сценою, розширено входи в бічні зони, обмежено доступ до води по краях. Графіку не змінено.
+
+Тестова URL: https://play.workadventu.re/_/global/tarasfedirkko896-code.github.io/ain-conference-2026/map-ain-v12-navigation.tmj
+
+УВАГА: це корекція колізій за графічним планом, не перевірена проходженням аватара у WorkAdventure. Для точного узгодження дверей потрібне тестування в грі.
