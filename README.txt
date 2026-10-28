@@ -1,9 +1,9 @@
-AIN Conference v12 — прохідність
+AIN Conference v13 — двері та навігація
 
-Завантажте map-ain-v12-navigation.tmj у корінь репозиторію ain-conference-2026. Не видаляйте ain_conference_v10.png, invisible_collision.png та invisible_start.png.
+Завантажте лише map-ain-v13-doors.tmj у корінь ain-conference-2026. Графічні файли ain_conference_v10.png, invisible_collision.png, invisible_start.png мають залишитися в корені.
 
-Виправлення: відкрито проходи біля крісел перед сценою, розширено входи в бічні зони, обмежено доступ до води по краях. Графіку не змінено.
+Синхронізовано колізії зі стінами, зроблено широкі прорізи для шести бічних зон, вільні проходи біля сцени, обмежено воду.
 
-Тестова URL: https://play.workadventu.re/_/global/tarasfedirkko896-code.github.io/ain-conference-2026/map-ain-v12-navigation.tmj
+Це нова геометрія за візуальною картою; не перевірено живим аватаром у WorkAdventure. Зелені точки на діагностичному зображенні — контрольні точки, червоні ділянки — колізії.
 
-УВАГА: це корекція колізій за графічним планом, не перевірена проходженням аватара у WorkAdventure. Для точного узгодження дверей потрібне тестування в грі.
+Тест: https://play.workadventu.re/_/global/tarasfedirkko896-code.github.io/ain-conference-2026/map-ain-v13-doors.tmj
